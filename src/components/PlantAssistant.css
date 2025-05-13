@@ -1,0 +1,10 @@
+.plant-assistant {
+  flex-grow: 1; /* Qolgan joyni egallaydi */
+  display: flex;
+  flex-direction: column;
+}
+
+.content-area {
+  display: flex;
+  height: calc(100vh - 60px); /* Taxminiy header balandligi */
+}
